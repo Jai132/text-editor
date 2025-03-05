@@ -1,0 +1,8 @@
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/install/strip.dir
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/install/local.dir
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/install.dir
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/list_install_components.dir
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/rebuild_cache.dir
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/edit_cache.dir
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/ImGuiNotepad.dir
+/home/jai_bkcdi/Documents/notepad-imgui/build/CMakeFiles/imgui.dir
